@@ -1,0 +1,1 @@
+export const luciaRedirect = (to = '/') => window.location.href = to
